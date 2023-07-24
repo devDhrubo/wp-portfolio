@@ -1,0 +1,225 @@
+0000.001 (0) Opened log file at time: Mon, 24 Jul 2023 06:57:24 +0000 on http://localhost/portfolio
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.7 WP: 6.2.2 PHP: 7.3.12 (apache2handler, Windows NT DHRUBO 10.0 build 19042 (Windows 10) i586) MySQL: 10.4.10-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.41 (Win32) PHP/7.3.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 6.1M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 87476.3 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.021 (0) Semaphore (fd, wp_options) being initialised
+0000.026 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.030 (0) Set semaphore last lock (fd) time to 2023-07-24 06:57:24
+0000.033 (0) Semaphore lock (fd) complete
+0000.041 (0) Backup run: resumption=0, nonce=146ae26c429a, file_nonce=146ae26c429a begun at=1690181844 (0s ago), job type=backup
+0000.044 (0) Scheduling a resumption (1) after 300 seconds (1690182144) in case this run gets aborted
+0000.074 (0) Checking if we have a zip executable available
+0000.077 (0) Creation of backups of directories: beginning
+0000.083 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.719 (0) Total entities for the zip file: 761 directories, 3170 files (0 skipped as non-modified), 82.8 MB
+0001.764 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.802 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.840 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.879 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.892 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 3170 files batched, 433 (433) added so far); re-opening (prior size: 0 KB)
+0006.354 (0) A useful amount of data was added after this amount of zip processing: 6.6 s (normalised: 6.6 s, rate: 3865 KB/s)
+0006.421 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 500 files added (on-disk size: 5507.7 KB)
+0006.495 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 600 files added (on-disk size: 5507.7 KB)
+0006.570 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 700 files added (on-disk size: 5507.7 KB)
+0006.645 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 800 files added (on-disk size: 5507.7 KB)
+0006.716 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 900 files added (on-disk size: 5507.7 KB)
+0006.789 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1000 files added (on-disk size: 5507.7 KB)
+0006.862 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1100 files added (on-disk size: 5507.7 KB)
+0006.935 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1200 files added (on-disk size: 5507.7 KB)
+0006.997 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1300 files added (on-disk size: 5507.7 KB)
+0007.051 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1400 files added (on-disk size: 5507.7 KB)
+0007.067 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.3 MB, 3170 files batched, 1001 (1434) added so far); re-opening (prior size: 5507.7 KB)
+0011.026 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1500 files added (on-disk size: 13815.7 KB)
+0011.059 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1600 files added (on-disk size: 13815.7 KB)
+0011.089 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1700 files added (on-disk size: 13815.7 KB)
+0011.133 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1800 files added (on-disk size: 13815.7 KB)
+0011.182 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 1900 files added (on-disk size: 13815.7 KB)
+0011.235 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2000 files added (on-disk size: 13815.7 KB)
+0011.293 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2100 files added (on-disk size: 13815.7 KB)
+0011.366 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2200 files added (on-disk size: 13815.7 KB)
+0011.427 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 3170 files batched, 857 (2291) added so far); re-opening (prior size: 13815.7 KB)
+0015.582 (0) A useful amount of data was added after this amount of zip processing: 4.9 s (normalised: 4.8 s, rate: 5302.7 KB/s)
+0015.585 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.8566479682922, normalised_time=4.8277582887649, max_time=15.58309006691, data points known=1, old_max_bytes=26214400, new_max_bytes=50769073)
+0015.611 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2300 files added (on-disk size: 22439.5 KB)
+0015.657 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2400 files added (on-disk size: 22439.5 KB)
+0015.695 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2500 files added (on-disk size: 22439.5 KB)
+0015.730 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2600 files added (on-disk size: 22439.5 KB)
+0015.763 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2700 files added (on-disk size: 22439.5 KB)
+0015.831 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2800 files added (on-disk size: 22439.5 KB)
+0015.868 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 2900 files added (on-disk size: 22439.5 KB)
+0015.900 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 3000 files added (on-disk size: 22439.5 KB)
+0015.934 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.tmp: 3100 files added (on-disk size: 22439.5 KB)
+0017.667 (0) Creating zip file manifest (backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.list-temp.tmp)
+0017.691 (0) Successfully created zip file manifest (size: 249340)
+0017.988 (0) Created plugins zip (0) - 25753.8 KB in 17.9 s (1438.7 KB/s) (sha1: 72d315b7614a550c8eccfd73474b842341bf8fc3, sha256: e02474f664cbcce0f7cd6160fcb05fbdcb513f0240aa47bcb5eecd42f99c0ca4)
+0017.997 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0017.998 (0) No remote despatch: user chose no remote backup service
+0018.000 (0) Recording as successfully uploaded: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip
+0018.002 (0) Deleting zip manifest (backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip.list.tmp)
+0018.007 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0018.008 (0) Number of backup sets in history: 0; groups (db): 1
+0018.009 (0) Number of backup sets in history: 0; groups (files): 1
+0018.010 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0018.020 (0) Beginning creation of dump of themes (split every: 400 MB)
+0018.419 (0) Total entities for the zip file: 86 directories, 414 files (0 skipped as non-modified), 12.7 MB
+0018.455 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0018.495 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0018.537 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0018.572 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0020.338 (0) Creating zip file manifest (backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-themes.zip.list-temp.tmp)
+0020.343 (0) Successfully created zip file manifest (size: 29345)
+0020.467 (0) Created themes zip (0) - 10833.3 KB in 2.4 s (4435.2 KB/s) (sha1: 661ed615e59f8527f8dc784c52fc9a3310b84121, sha256: 6d82ee4b8f212a78aa6740a95a8f93174b8b57a7aedeb7e733a7b841fd0598af)
+0020.472 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0020.473 (0) No remote despatch: user chose no remote backup service
+0020.474 (0) Recording as successfully uploaded: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-themes.zip
+0020.476 (0) Deleting zip manifest (backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-themes.zip.list.tmp)
+0020.481 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0020.482 (0) Number of backup sets in history: 0; groups (db): 1
+0020.483 (0) Number of backup sets in history: 0; groups (files): 1
+0020.484 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0020.491 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0020.492 (0) Looking for candidates to backup in: C:\wamp\www\portfolio/wp-content/uploads
+0020.494 (0) finding files: 2023: adding to list (1)
+0020.496 (0) finding files: elementor: adding to list (2)
+0020.497 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0020.560 (0) Total entities for the zip file: 19 directories, 117 files (0 skipped as non-modified), 5.5 MB
+0020.593 (0) Zip: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.730 (0) Creating zip file manifest (backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-uploads.zip.list-temp.tmp)
+0021.734 (0) Successfully created zip file manifest (size: 6863)
+0021.825 (0) Created uploads zip (0) - 4897.1 KB in 1.3 s (3700.8 KB/s) (sha1: 9d1227f4b2f3d988b2dbd334d9fba16e398027d8, sha256: 4682bfa2ef9d92e9df23aa29d37fa08e622505469d7d879f8007523f6d1b39c5)
+0021.832 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0021.834 (0) No remote despatch: user chose no remote backup service
+0021.835 (0) Recording as successfully uploaded: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-uploads.zip
+0021.838 (0) Deleting zip manifest (backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-uploads.zip.list.tmp)
+0021.842 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0021.844 (0) Number of backup sets in history: 0; groups (db): 1
+0021.846 (0) Number of backup sets in history: 0; groups (files): 1
+0021.848 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0021.856 (0) Beginning backup of other directories found in the content directory (index: 0)
+0021.859 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0021.862 (0) Looking for candidates to backup in: C:\wamp\www\portfolio/wp-content
+0021.864 (0) finding files: index.php: adding to list (1)
+0021.866 (0) finding files: plugins: skipping: this is the plugins directory
+0021.867 (0) finding files: themes: skipping: this is the themes directory
+0021.868 (0) finding files: updraft: skipping: this is the updraft directory
+0021.870 (0) finding files: upgrade: skipping: excluded by options
+0021.871 (0) finding files: uploads: skipping: this is the uploads directory
+0021.878 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0021.884 (0) Creating zip file manifest (backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-others.zip.list-temp.tmp)
+0021.886 (0) Successfully created zip file manifest (size: 43)
+0021.895 (0) Created others zip (0) - 0.1 KB in 0 s (8.1 KB/s) (sha1: 0c000bdc11696c8bf02ef5b7a0266f1d976bc778, sha256: 8ff98a36de5a51e11f02b381e67a912040f08365a5ccb0c8e324f01325feb26f)
+0021.902 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0021.903 (0) No remote despatch: user chose no remote backup service
+0021.905 (0) Recording as successfully uploaded: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-others.zip
+0021.908 (0) Deleting zip manifest (backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-others.zip.list.tmp)
+0021.912 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0021.915 (0) Number of backup sets in history: 0; groups (db): 1
+0021.916 (0) Number of backup sets in history: 0; groups (files): 1
+0021.917 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0021.931 (0) Saving backup status to database (elements: 8)
+0021.935 (0) Beginning creation of database dump (WordPress DB)
+0021.937 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0021.998 (0) Table wp_options: Total expected rows (via COUNT): 264
+0022.001 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0022.138 (0) Table wp_options: Rows added in this batch (next record: 322): 260 (uncompressed bytes in this segment=2162100) in 0.17 seconds
+0022.148 (0) Table wp_options: finishing file(s) (2, 358.6 KB)
+0022.157 (0) Table wp_users: Total expected rows (via COUNT): 1
+0022.159 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0022.164 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1406) in 0.01 seconds
+0022.172 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0022.184 (0) Table wp_usermeta: Total expected rows (via COUNT): 27
+0022.185 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0022.190 (0) Table wp_usermeta: Rows added in this batch (next record: 27): 27 (uncompressed bytes in this segment=3470) in 0.01 seconds
+0022.200 (0) Table wp_usermeta: finishing file(s) (2, 1.5 KB)
+0022.210 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0022.215 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.01 seconds
+0022.223 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0022.234 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0022.235 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0022.239 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2133) in 0.01 seconds
+0022.247 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0022.257 (0) Table wp_links: Total expected rows (via COUNT): 0
+0022.260 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1306) in 0.01 seconds
+0022.268 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0022.281 (0) Table wp_postmeta: Total expected rows (approximate): 1173
+0022.445 (0) Table wp_postmeta: Rows added in this batch (next record: 1276): 1173 (uncompressed bytes in this segment=3698880) in 0.17 seconds
+0022.454 (0) Table wp_postmeta: finishing file(s) (2, 251.1 KB)
+0022.466 (0) Table wp_posts: Total expected rows (via COUNT): 185
+0022.467 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0022.537 (0) Table wp_posts: Rows added in this batch (next record: 190): 185 (uncompressed bytes in this segment=1017287) in 0.08 seconds
+0022.544 (0) Table wp_posts: finishing file(s) (2, 35.8 KB)
+0022.552 (0) Table wp_term_relationships: Total expected rows (approximate): 8
+0022.555 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 8 (uncompressed bytes in this segment=790) in 0.01 seconds
+0022.562 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0022.571 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 3
+0022.572 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0022.575 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=996) in 0.01 seconds
+0022.583 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0022.591 (0) Table wp_termmeta: Total expected rows (via COUNT): 1
+0022.592 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0022.596 (0) Table wp_termmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=777) in 0.01 seconds
+0022.603 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0022.609 (0) Table wp_terms: Total expected rows (via COUNT): 3
+0022.611 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0022.614 (0) Table wp_terms: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=784) in 0.01 seconds
+0022.620 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0022.633 (0) Table wp_e_events: Total expected rows (via COUNT): 2
+0022.634 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0022.636 (0) Table wp_e_events: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=989) in 0.01 seconds
+0022.642 (0) Table wp_e_events: finishing file(s) (2, 0.5 KB)
+0022.645 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_options.table.tmpr323.gz (1/13/fopen): adding to final database dump
+0022.664 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_options.table.gz (2/13/fopen): adding to final database dump
+0022.666 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_users.table.tmpr2.gz (3/13/fopen): adding to final database dump
+0022.667 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_users.table.gz (4/13/fopen): adding to final database dump
+0022.668 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_usermeta.table.tmpr28.gz (5/13/fopen): adding to final database dump
+0022.669 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_usermeta.table.gz (6/13/fopen): adding to final database dump
+0022.671 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_commentmeta.table.tmpr0.gz (7/13/fopen): adding to final database dump
+0022.672 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_commentmeta.table.gz (8/13/fopen): adding to final database dump
+0022.673 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_comments.table.tmpr2.gz (9/13/fopen): adding to final database dump
+0022.675 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_comments.table.gz (10/13/fopen): adding to final database dump
+0022.676 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_links.table.tmpr0.gz (11/13/fopen): adding to final database dump
+0022.677 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_links.table.gz (12/13/fopen): adding to final database dump
+0022.679 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_postmeta.table.tmpr1277.gz (13/13/fopen): adding to final database dump
+0022.691 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_postmeta.table.gz (14/13/fopen): adding to final database dump
+0022.693 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_posts.table.tmpr191.gz (15/13/fopen): adding to final database dump
+0022.696 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_posts.table.gz (16/13/fopen): adding to final database dump
+0022.698 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_term_relationships.table.tmpr100001.gz (17/13/fopen): adding to final database dump
+0022.700 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_term_relationships.table.gz (18/13/fopen): adding to final database dump
+0022.701 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_term_taxonomy.table.tmpr4.gz (19/13/fopen): adding to final database dump
+0022.702 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_term_taxonomy.table.gz (20/13/fopen): adding to final database dump
+0022.704 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_termmeta.table.tmpr2.gz (21/13/fopen): adding to final database dump
+0022.705 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_termmeta.table.gz (22/13/fopen): adding to final database dump
+0022.707 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_terms.table.tmpr4.gz (23/13/fopen): adding to final database dump
+0022.708 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_terms.table.gz (24/13/fopen): adding to final database dump
+0022.709 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_e_events.table.tmpr3.gz (25/13/fopen): adding to final database dump
+0022.710 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db-table-wp_e_events.table.gz (26/13/fopen): adding to final database dump
+0022.731 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db.gz: finished writing out complete database file (651.7 KB)
+0022.748 (0) Total database tables backed up: 13 (backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db.gz, size: 667484, sha1: 127774140afb7a414609d65d500a4fafda4ad729, sha256: d43b5d3c84a83f56b021049da3282cc4e750d0d3a6a89731ab4e8c44d02031ee)
+0022.756 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-plugins.zip: plugins: This file has already been successfully uploaded
+0022.757 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-themes.zip: themes: This file has already been successfully uploaded
+0022.758 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-uploads.zip: uploads: This file has already been successfully uploaded
+0022.759 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-others.zip: others: This file has already been successfully uploaded
+0022.760 (0) backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db.gz: db: This file has not yet been successfully uploaded: will queue
+0022.762 (0) Saving backup history. Total backup size: 41.1 MB
+0022.766 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0022.770 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0022.772 (0) No remote despatch: user chose no remote backup service
+0022.773 (0) Recording as successfully uploaded: backup_2023-07-24-0657_My_Beautiful_Portfolio_146ae26c429a-db.gz
+0022.776 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0022.781 (0) Number of backup sets in history: 1; groups (db): 1
+0022.782 (0) Examining (for databases) backup set with group_id=0, nonce=146ae26c429a, datestamp=1690181844 (Jul 24 2023 06:57:24)
+0022.783 (0) This backup set is the backup set just made, so will not be deleted.
+0022.783 (0) Number of backup sets in history: 1; groups (files): 1
+0022.784 (0) Examining (for files) backup set with nonce=146ae26c429a, datestamp=1690181844 (Jul 24 2023 06:57:24)
+0022.784 (0) This backup set is the backup set just made, so will not be deleted.
+0022.785 (0) This backup set is the backup set just made, so will not be deleted.
+0022.786 (0) This backup set is the backup set just made, so will not be deleted.
+0022.786 (0) This backup set is the backup set just made, so will not be deleted.
+0022.787 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0022.788 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0022.791 (0) Resume backup (146ae26c429a, 0): finish run
+0022.793 (0) Decremented the semaphore (fd) by 1
+0022.796 (0) Semaphore (fd) unlocked
+0022.797 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0022.802 (0) No email will/can be sent - the user has not configured an email address.
+0022.803 (0) The backup apparently succeeded and is now complete
